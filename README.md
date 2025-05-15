@@ -3,7 +3,7 @@
 🎓 First-year CSE | 👾 Building useful stuff nobody asked for—yet | ⚙️ Passionate Code Tinkerer | 🌟 Turning Ideas into Reality
 
 ---
-
+[<img align="right" alt="Chill gif" src="https://jmp.sh/s/bZAnZybEbi7lamZy17VT" width="360" height="190" />](https://github.com/Vishnu-tppr?tab=repositories)
 I’m Vishnu—a first-year CSE student who can’t stop tinkering with code ⚙️❤️.
 
 🏅 Rank 1 and Topper in Semester 1? Yeah, that happened. But honestly, the real fun begins when I step beyond grades and start building things way ahead of schedule .
@@ -39,23 +39,25 @@ My GitHub isn’t just a repo of code; it’s a peek into my journey—mistakes,
 ---
 ## 💫 Tech & Tools I Use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![C](https://skillicons.dev/icons?i=c)]()
+[![HTML5](https://skillicons.dev/icons?i=html)]()
+[![OpenCV](https://skillicons.dev/icons?i=opencv)]()
 
 
-
-
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-130754?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Vishnu-tppr)
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</a>
+
+
 
 
 ---
@@ -70,6 +72,7 @@ My GitHub isn’t just a repo of code; it’s a peek into my journey—mistakes,
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishnu-tppr&label=Profile%20Views&color=blueviolet&style=flat" height="50"/>
 </p>
+
 
 ---
 
