@@ -9,9 +9,9 @@
 
 <p>🏅 Rank 1 and Topper in Semester 1? Yeah, that happened. But honestly, the real fun <br> begins when I step beyond grades and start building things way ahead of schedule .</p>
 
-<p> Right now, I’m crafting voice assistants, debugging tools, and automation scripts just for<br> the thrill of it (and sometimes out of pure curiosity) 👨🏻‍💻✨.</p>
+<p> Right now, I’m crafting voice assistants, debugging tools, and automation scripts just for the thrill of it (and sometimes out of pure curiosity) 👨🏻‍💻✨.</p>
 
-<p> Procrastination is my cardio, panic is my fuel, and hyperfocus is the unexpected<br> superpower that somehow gets things done. It’s the perfect mix of late-night coding,<br> last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.</p>
+<p> Procrastination is my cardio, panic is my fuel, and hyperfocus is the unexpected superpower that somehow gets things done. It’s the perfect mix of late-night coding, last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.</p>
 
 <p> I didn’t get here by memorizing textbooks like a photocopier. Rote learning? Overrated.I believe if you understand something well enough the first time, it sticks. If it doesn’t, I stare at it until it clicks—eventually 🤯.</p>
 
