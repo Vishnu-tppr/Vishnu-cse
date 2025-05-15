@@ -1,20 +1,21 @@
-# ✨ Hey! I’m Vishnu – Let’s build something cool together.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" align="down"> Hey! I’m Vishnu – Let’s build something cool together.
 
 🎓 First-year CSE | 👾 Building useful stuff nobody asked for—yet | ⚙️ Passionate Code Tinkerer | 🌟 Turning Ideas into Reality
 
 ---
 [<img align="right" alt="Chill gif" src="https://github.com/Vishnu-tppr/Vishnu-cse/blob/main/LOFI%20BOY.gif?raw=true" width="360" height="190" />](https://github.com/Vishnu-tppr?tab=repositories)
-I’m Vishnu—a first-year CSE student who can’t stop tinkering with code ⚙️❤️.
 
-🏅 Rank 1 and Topper in Semester 1? Yeah, that happened. But honestly, the real fun begins when I step beyond grades and start building things way ahead of schedule .
+<p>I’m Vishnu—a first-year CSE student who can’t stop tinkering with code ⚙️❤️.</p>
 
-Right now, I’m crafting voice assistants, debugging tools, and automation scripts—just for the thrill of it (and sometimes out of pure curiosity) 👨🏻‍💻✨.
+<p>🏅 Rank 1 and Topper in Semester 1? Yeah, that happened. But honestly, the real fun <br> begins when I step beyond grades and start building things way ahead of schedule .</p>
 
-Procrastination is my cardio, panic is my fuel, and hyperfocus is the unexpected superpower that somehow gets things done. It’s the perfect mix of late-night coding, last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.
+<p> Right now, I’m crafting voice assistants, debugging tools, and automation scripts just for<br> the thrill of it (and sometimes out of pure curiosity) 👨🏻‍💻✨.</p>
 
-I didn’t get here by memorizing textbooks like a photocopier. Rote learning? Overrated. I believe if you understand something well enough the first time, it sticks. If it doesn’t, I stare at it until it clicks—eventually 🤯.
+<p> Procrastination is my cardio, panic is my fuel, and hyperfocus is the unexpected<br> superpower that somehow gets things done. It’s the perfect mix of late-night coding,<br> last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.</p>
 
-Currently I’m diving headfirst into AI/ML in Python… anything that looks like it might break my brain in a fun way. I’m that guy who starts a “small” project and ends up awake at 2 AM convincing himself it’s the next big thing—one YouTube tutorial, one Stack Overflow thread at a time 🌙📚.
+<p> I didn’t get here by memorizing textbooks like a photocopier. Rote learning? Overrated.I believe if you understand something well enough the first time, it sticks. If it doesn’t, I stare at it until it clicks—eventually 🤯.</p>
+
+<p> Currently I’m diving headfirst into AI/ML in Python… anything that looks like it might break my brain in a fun way. I’m that guy who starts a “small” project and ends up awake at 2 AM convincing himself it’s the next big thing—one YouTube tutorial, one Stack Overflow thread at a time 🌙📚.</p>
 
 ---
 
