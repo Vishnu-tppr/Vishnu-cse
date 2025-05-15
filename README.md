@@ -3,7 +3,7 @@
 🎓 First-year CSE | 👾 Building useful stuff nobody asked for—yet | ⚙️ Passionate Code Tinkerer | 🌟 Turning Ideas into Reality
 
 ---
-[<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/Vishnu-tppr?tab=repositories)
+[<img align="right" alt="Chill gif" src="https://github.com/Vishnu-tppr/Vishnu-cse/blob/main/LOFI%20BOY.gif?raw=true" width="360" height="190" />](https://github.com/Vishnu-tppr?tab=repositories)
 I’m Vishnu—a first-year CSE student who can’t stop tinkering with code ⚙️❤️.
 
 🏅 Rank 1 and Topper in Semester 1? Yeah, that happened. But honestly, the real fun begins when I step beyond grades and start building things way ahead of schedule .
